@@ -29,11 +29,15 @@ and 3d view is a bit weird sometimes)
 
 ## Installation
 
+Python 3.12 required. (not any newer sorry, I would use an IDE like pycharm to select what
+python version)
+
 clone the repo
 ```
-
+git clone https://github.com/RedstoneMaster011/ShapeRenderer
 ```
 and run 
 ```
 pip install -r requirements.txt
 ```
+then you can run any of the python files (other than mesher_viewer.py) and run that program
