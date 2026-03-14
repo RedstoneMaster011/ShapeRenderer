@@ -9,7 +9,7 @@ Texture stitcher: stitches more than 1 OBJ model and textures into 1 OBJ and 1 t
 
 ## OBJ to Shape Renderer:
 click Open Text Display Mesher (colors are dif cus it's not mine thank **Cymaera** for
-making the OBJ to command converter) and
+making the OBJ to command converter https://github.com/TheCymaera/text-display-mesher) and
 upload your OBJ and texture, then scroll down to the commands section and click Copy (models
 must be under 1300 triangles [for normal DF plots] cus 3 displays per triangle)
 
