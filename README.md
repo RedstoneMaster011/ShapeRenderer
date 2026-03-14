@@ -2,13 +2,13 @@
 
 OBJ to Shape Renderer: converts OBJ models to DF code to render them as text displays.
 
-Image to colormap: converts an image to DF colormap to render the texture on a shape thats
+Image to colormap: converts an image to DF colormap to render the texture on a shape that's
 text displays
 
 Texture stitcher: stitches more than 1 OBJ model and textures into 1 OBJ and 1 texture.
 
 ## OBJ to Shape Renderer:
-click Open Text Display Mesher (colors are dif cus it's not mine thank Cymaera for
+click Open Text Display Mesher (colors are dif cus it's not mine thank **Cymaera** for
 making the OBJ to command converter) and
 upload your OBJ and texture, then scroll down to the commands section and click Copy (models
 must be under 1300 triangles [for normal DF plots] cus 3 displays per triangle)
@@ -29,7 +29,7 @@ and 3d view is a bit weird sometimes)
 
 ## Installation
 
-Python 3.12 required. (not any newer sorry, I would use an IDE like pycharm to select what
+Python 3.12 required. (not any newer sorry, I would use an IDE like PyCharm to select what
 python version)
 
 clone the repo
